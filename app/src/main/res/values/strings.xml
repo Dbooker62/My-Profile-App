@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Myprofile</string>
+    <string name="user_name">Daniel Booker</string>
+    <string name="profile_button">View Profile</string>
+    <string name="intro">Introduction</string>
+    <string name="info">I am Daniel Booker \nI study at MCC \nI live in Schaumburg</string>
+
+</resources>
